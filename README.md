@@ -2,7 +2,7 @@
 <h3 align="center">Student at RYW.🌟</h3> <br>
 
 <p align = "center">
-<img width="400" height="500" src="https://scontent.fbkk6-2.fna.fbcdn.net/v/t39.30808-6/278947447_1053232961956573_8058178009784857210_n.jpg?_nc_cat=107&amp;ccb=1-5&amp;_nc_sid=730e14&amp;_nc_eui2=AeFU24gT5g5jo1Rs7GPzD5vZwyED3ltoJEfDIQPeW2gkR7SD85BL0vvEems_Brh_2orzqirXhK6lBp_38qdzlGy2&amp;_nc_ohc=2_Ef8xJcR4EAX-pZU7y&amp;_nc_ht=scontent.fbkk6-2.fna&amp;oh=00_AT8pqIwyoXpB4TLQJ2_oDxVnuofW6KApKVbubLZ2a-o9gw&amp;oe=6267EFAE" /> </p>
+<img width="300" height="500" src="https://github.com/tony007x/picture/blob/main/S__3579927.jpg" /> </p>
 
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">My Contact: </h2>
