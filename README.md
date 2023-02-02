@@ -2,7 +2,7 @@
 <h3 align="center">Student at RYW.🌟</h3> <br>
 
 <p align = "center">
-<img width="300" height="550" src="https://github.com/tony007x/picture/blob/main/S__3579927.jpg" /> </p>
+<img width="320" height="550" src="https://github.com/tony007x/picture/blob/main/S__3579927.jpg" /> </p>
 
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">My Contact: </h2>
