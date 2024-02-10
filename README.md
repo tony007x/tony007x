@@ -1,6 +1,6 @@
 <div align="center">
 <h4><img src=":wave:" width="30">🖐️Welcome to my profile.</h4>
-I'm Akeanant Poomdeesittinon, I'm studying at the Faculty of Computer Science for learning to be a developer.</div>
+I'm Akeanant Poomdeesittinon, <br> Code is Curse</div>
 </br>
 </br>
 
