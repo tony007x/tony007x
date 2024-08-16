@@ -4,7 +4,7 @@
 </br>
 </br>
 <div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tony007x&label=Profile%views&color=70a0ff&style=flat-square" alt="tony007x" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tony007x&label=Profile%20views&color=70a0ff&style=flat-square" alt="tony007x" /> </p>
 <p align="center"> <a href="https://twitter.com/_gng219y" target="blank"><img src="https://img.shields.io/twitter/follow/_gng219y?logo=twitter&style=for-the-badge" alt="_gng219y" /></a> </p>
 </div>
 
