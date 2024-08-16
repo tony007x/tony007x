@@ -7,6 +7,6 @@ I'm Akeanant Poomdeesittinon, <br> Code is Curse</div>
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://i0.wp.com/i.giphy.com/media/ZVik7pBtu9dNS/giphy-downsized.gif?w=770&ssl=1">
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![tony007x's GitHub stats](https://github-readme-stats.vercel.app/api?username=tony007x)](https://github.com/tony007x/github-readme-stats)
 
 
