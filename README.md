@@ -33,4 +33,4 @@
 </br>
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tony007x&theme=dark" alt="tony007x" /></p>
 
-
+<p align="center"><a href="http://www.github.com/tony007x"><img src="https://github-readme-stats.vercel.app/api?username=tony007x&show&#95;icons=true&hide=&count&#95;private=true&title&#95;color=ef4444&text&#95;color=ffffff&icon&#95;color=ef4444&bg&#95;color=1c1917&hide&#95;border=true&show&#95;icons=true" alt="tony007x GitHub stats" /></a></p>
